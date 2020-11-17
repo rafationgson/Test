@@ -1,9 +1,14 @@
 # Test
 
 ## iOS Developer
-Rafa Tiongson
+- Rafa Tiongson
 
 ## Programming Languages
-Python
-Swift
-Java
+- Python
+- Swift
+- Java
+
+## IDEs
+- Intellij
+- Xcode
+- Pycharm
